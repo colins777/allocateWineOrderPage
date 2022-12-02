@@ -1,0 +1,29 @@
+https://allocate-wine.gabsoft.net/account/wine_preferences/
+
+Redux toolkit  pizza shop
+https://youtu.be/h1Q2V2Ek0EQ?list=PL0FGkDGJQjJG9eI85xM1_iLIf6BcEdaNl&t=755
+
+Run server:
+npm run server
+
+//state pizza react
+16 - 30 min
+
+
+Redux immutable practice
+https://blog.logrocket.com/redux-immutable-update-patterns/
+
+
+- Questions
+1. What does the Accept All producers btn ?
+2 What does the Ship/store btn ?
+
+//Built API for test
+https://code.tutsplus.com/tutorials/how-to-build-a-simple-rest-api-in-php--cms-37000
+
+
+declined 185890
+
+total 202613
+
+subtotal 16723
